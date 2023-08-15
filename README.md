@@ -10,13 +10,13 @@ APIs I Played With:
 
 Facebook: Figured out where you called "home".
 Flickr: Hunted for those awesome pics of your hometown.
-Log In Stuff:
-I've hooked it up with Facebook's oAuth, so you can quickly jump in. It's all secure and just makes things smoother.
+Log In Stuff: I've hooked it up with Facebook's oAuth, so you can quickly jump in. It's all secure and just makes things smoother.
 
 Cool Bits:
 
 Your Hometown in HD: See your roots through some stellar photos.
 React Over Handlebars: Used React's JSX to get everything looking nice and dynamic.
 Quick Data Pulls: Used Promise.all() with fetch to grab data super quick from both APIs.
+
 This was a fun uni project, blending personal info with awesome imagery. Take a look at the code, or just enjoy the pics!
 
