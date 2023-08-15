@@ -1,4 +1,4 @@
-# Hometown-Highlights-App
+# Hometown-Highlights
 A web mashup of Facebook &amp; Flickr
 
 Hey there! Ever wondered what cool photos people are snapping in your hometown? I combined the powers of Facebook and Flickr to show you the best shots from where you grew up. Check it out!
