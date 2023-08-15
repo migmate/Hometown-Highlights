@@ -16,7 +16,6 @@ I've hooked it up with Facebook's oAuth, so you can quickly jump in. It's all se
 Cool Bits:
 
 Your Hometown in HD: See your roots through some stellar photos.
-Snazzy Moves: I tossed in some CSS animations to make things pop!
 React Over Handlebars: Used React's JSX to get everything looking nice and dynamic.
 Quick Data Pulls: Used Promise.all() with fetch to grab data super quick from both APIs.
 This was a fun uni project, blending personal info with awesome imagery. Take a look at the code, or just enjoy the pics!
