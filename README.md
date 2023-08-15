@@ -9,7 +9,9 @@ So, 'Hometown Highlights' peeks at your Facebook profile (with your permission, 
 APIs I Played With:
 
 Facebook: Figured out where you called "home".
+
 Flickr: Hunted for those awesome pics of your hometown.
+
 Log In Stuff: I've hooked it up with Facebook's oAuth, so you can quickly jump in. It's all secure and just makes things smoother.
 
 Cool Bits:
